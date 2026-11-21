@@ -2,7 +2,7 @@
   {
     "tag_name": "v27.0.0-alpha.4",
     "draft": false,
-    "prerelease": true,
+    "prerelease": false,
     "published_at": "2026-11-19T14:08:44Z",
     "html_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/tag/v27.0.0-alpha.4",
     "assets": [
@@ -70,6 +70,81 @@
         "name": "SHA256SUMS",
         "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.4/SHA256SUMS",
         "digest": "sha256:e3207d0d3b9c1ffdd8f5862f833c783de04ab117477d08448f963c84ce169968",
+        "size": 854
+      }
+    ]
+  },
+  {
+    "tag_name": "v27.0.0-alpha.5",
+    "draft": false,
+    "prerelease": true,
+    "published_at": "2026-11-21T08:00:49Z",
+    "html_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/tag/v27.0.0-alpha.5",
+    "assets": [
+      {
+        "name": "Byakaron-Setup.exe",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.5/Byakaron-Setup.exe",
+        "digest": "sha256:551f539f05e2aa16f7aa0aea1458ad858093b400e0fcbc09cefd609325dd3a65",
+        "size": 204501290
+      },
+      {
+        "name": "Byakaron.aab",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.5/Byakaron.aab",
+        "digest": "sha256:4b78e9d9b926f69926f6fa24da3a5399683a886755fb4de659ad24c262faf2f8",
+        "size": 148933681
+      },
+      {
+        "name": "Byakaron.apk",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.5/Byakaron.apk",
+        "digest": "sha256:80c598dfd0097bb2809a8d6f08d1f9f09c78f3ee615cfca1e87595d0960d6b7e",
+        "size": 144806682
+      },
+      {
+        "name": "Byakaron.dmg",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.5/Byakaron.dmg",
+        "digest": "sha256:fc3f160bcb5e2d0f1dbf0b3d6e21747e50ad611072d212086166aca16e25b5cf",
+        "size": 583300589
+      },
+      {
+        "name": "byakaron_aarch64.pkg.tar.zst",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.5/byakaron_aarch64.pkg.tar.zst",
+        "digest": "sha256:b60d72fc4669af78b843e0954047ac53901303510c8c0ae5abdd936250e7bb3b",
+        "size": 97649556
+      },
+      {
+        "name": "byakaron_aarch64.rpm",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.5/byakaron_aarch64.rpm",
+        "digest": "sha256:e29401b64186bdb007f4fc68fce09ce32fe676b3f278b46c4170423c49954d6e",
+        "size": 89004001
+      },
+      {
+        "name": "byakaron_amd64.deb",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.5/byakaron_amd64.deb",
+        "digest": "sha256:7e365b2117075f2d00cdc77ab82356130ec63c27e2cf436da17abd93cf2f8d60",
+        "size": 91137740
+      },
+      {
+        "name": "byakaron_arm64.deb",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.5/byakaron_arm64.deb",
+        "digest": "sha256:ccf556740d395f6154c92d0245b89e9e69ed475ae34d1f58f0e2055c287cd6d6",
+        "size": 97658682
+      },
+      {
+        "name": "byakaron_x86_64.pkg.tar.zst",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.5/byakaron_x86_64.pkg.tar.zst",
+        "digest": "sha256:4eb811b1e5b30870b3b13d84a9a30d728665ce49a7a9fa523eab92c709584f91",
+        "size": 91126878
+      },
+      {
+        "name": "byakaron_x86_64.rpm",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.5/byakaron_x86_64.rpm",
+        "digest": "sha256:5360b1d19791350e5dafba8fbf5a57e6ecd872f20d589c30fe1b86333a22809f",
+        "size": 83293833
+      },
+      {
+        "name": "SHA256SUMS",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.5/SHA256SUMS",
+        "digest": "sha256:87342f4673f681900d43ba42f9d87e6ef3a9394548e426ee70813a4c59bbc084",
         "size": 854
       }
     ]
