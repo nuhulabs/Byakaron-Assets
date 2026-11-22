@@ -1,5 +1,80 @@
 [
   {
+    "tag_name": "v27.0.0-alpha.7",
+    "draft": false,
+    "prerelease": true,
+    "published_at": "2026-11-22T13:57:38Z",
+    "html_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/tag/v27.0.0-alpha.7",
+    "assets": [
+      {
+        "name": "Byakaron-Setup.exe",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.7/Byakaron-Setup.exe",
+        "digest": "sha256:3890fd5d9c885674c4c0e3ecc2be0cbb7069093eb3647d4e86a696174569ca9d",
+        "size": 204491695
+      },
+      {
+        "name": "Byakaron.aab",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.7/Byakaron.aab",
+        "digest": "sha256:32bb51bbd9987d57628ecd14126edfbdcb8cbe98e52e34f8cb1be77d33b1c31a",
+        "size": 148933674
+      },
+      {
+        "name": "Byakaron.apk",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.7/Byakaron.apk",
+        "digest": "sha256:b9b7581f8961da9455d84312d4939773b86b49240c53bff60f9632339887591e",
+        "size": 144806698
+      },
+      {
+        "name": "Byakaron.dmg",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.7/Byakaron.dmg",
+        "digest": "sha256:936e835f42a648983089dbf752dbb1a260afb90b3b5d6e576c6bae4f889b981e",
+        "size": 583255896
+      },
+      {
+        "name": "byakaron_aarch64.pkg.tar.zst",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.7/byakaron_aarch64.pkg.tar.zst",
+        "digest": "sha256:77e901c45967768ba11a7a3bf63bdd1c511d76ccc5eb64c63196fe37ac3cba93",
+        "size": 97649639
+      },
+      {
+        "name": "byakaron_aarch64.rpm",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.7/byakaron_aarch64.rpm",
+        "digest": "sha256:4c33206ddea5665b9c6cb78924d9c82a0fd58fb696f1467071b8eb266b504b38",
+        "size": 89054945
+      },
+      {
+        "name": "byakaron_amd64.deb",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.7/byakaron_amd64.deb",
+        "digest": "sha256:a602399ffcac472425094b645d31d481f6c1f85c4758bc691238bf8a711ba001",
+        "size": 91138672
+      },
+      {
+        "name": "byakaron_arm64.deb",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.7/byakaron_arm64.deb",
+        "digest": "sha256:d8d563f049dd1fee9ea58abebc4fdf665ab1e5d5eb763f2d2873273c7c47b81f",
+        "size": 97658226
+      },
+      {
+        "name": "byakaron_x86_64.pkg.tar.zst",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.7/byakaron_x86_64.pkg.tar.zst",
+        "digest": "sha256:89d92a5838dcc56fac2f63e78b8ef91a030ab6b417dd93d3c0a09da5b5a18ad9",
+        "size": 91126117
+      },
+      {
+        "name": "byakaron_x86_64.rpm",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.7/byakaron_x86_64.rpm",
+        "digest": "sha256:01511328d617e2b5685911e35bd7b79812f56b9f6a2973be4c4a81c17663acb4",
+        "size": 83287069
+      },
+      {
+        "name": "SHA256SUMS",
+        "browser_download_url": "https://github.com/nuhulabs/Byakaron-Assets/releases/download/v27.0.0-alpha.7/SHA256SUMS",
+        "digest": "sha256:c899d6671f57e30951958d3bae731b7be2a2885104a5798caae8b6f8d5035e89",
+        "size": 854
+      }
+    ]
+  },
+  {
     "tag_name": "v27.0.0-alpha.6",
     "draft": false,
     "prerelease": true,
